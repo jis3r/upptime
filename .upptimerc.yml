@@ -11,6 +11,8 @@ sites:
     url: https://isermann.dev
   - name: Suitcase
     url: https://suitcase.legal
+  - name: Upptime
+    url: https://jis3r.github.io/upptime/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
