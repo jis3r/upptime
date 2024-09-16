@@ -13,6 +13,8 @@ sites:
     url: https://suitcase.legal
   - name: Upptime
     url: https://jis3r.github.io/upptime/
+  - name: Suitcase Backend
+    url: https://api.suitcase.legal/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
