@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/5schnellefragen.de.ico",
     "slug": "5-schnelle-fragen",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 538,
-    "timeDay": 574,
-    "timeWeek": 454,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 537,
+    "timeDay": 612,
+    "timeWeek": 449,
     "timeMonth": 528,
-    "timeYear": 538,
-    "dailyMinutesDown": {
-      "2024-10-22": 13
-    }
+    "timeYear": 537,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quotebox",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 913,
-    "timeDay": 475,
-    "timeWeek": 935,
-    "timeMonth": 932,
-    "timeYear": 913,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 915,
+    "timeDay": 793,
+    "timeWeek": 921,
+    "timeMonth": 933,
+    "timeYear": 915,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 809,
-    "timeDay": 652,
-    "timeWeek": 936,
-    "timeMonth": 859,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 798,
+    "timeDay": 716,
+    "timeWeek": 850,
+    "timeMonth": 840,
+    "timeYear": 798,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Suitcase",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1076,
-    "timeDay": 817,
-    "timeWeek": 953,
-    "timeMonth": 1058,
-    "timeYear": 1076,
+    "time": 1077,
+    "timeDay": 1087,
+    "timeWeek": 916,
+    "timeMonth": 1065,
+    "timeYear": 1077,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 66,
-    "timeWeek": 57,
-    "timeMonth": 99,
+    "timeDay": 81,
+    "timeWeek": 62,
+    "timeMonth": 97,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -106,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 959,
-    "timeWeek": 747,
-    "timeMonth": 828,
-    "timeYear": 816,
+    "time": 811,
+    "timeDay": 633,
+    "timeWeek": 695,
+    "timeMonth": 808,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   }
 ]
