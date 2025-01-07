@@ -112,9 +112,9 @@
     "url": "https://api.suitcase.legal/",
     "icon": "https://icons.duckduckgo.com/ip3/api.suitcase.legal.ico",
     "slug": "suitcase-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 1294,
     "timeMonth": 895,
     "timeYear": 803,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   }
 ]
