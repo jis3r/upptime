@@ -4,19 +4,19 @@
     "url": "https://5schnellefragen.de",
     "icon": "https://icons.duckduckgo.com/ip3/5schnellefragen.de.ico",
     "slug": "5-schnelle-fragen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 5667,
-    "timeWeek": 1754,
-    "timeMonth": 812,
-    "timeYear": 585,
+    "time": 584,
+    "timeDay": 3945,
+    "timeWeek": 1615,
+    "timeMonth": 802,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-01-16": 0
+      "2025-01-16": 7
     }
   },
   {
