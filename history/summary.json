@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 578,
-    "timeDay": 610,
+    "timeDay": 798,
     "timeWeek": 935,
-    "timeMonth": 707,
+    "timeMonth": 717,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2025-04-03": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 869,
-    "timeDay": 678,
+    "timeDay": 1012,
     "timeWeek": 892,
-    "timeMonth": 973,
+    "timeMonth": 976,
     "timeYear": 869,
     "dailyMinutesDown": {}
   },
@@ -42,12 +42,12 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "19.33%",
-    "uptimeWeek": "37.74%",
-    "uptimeMonth": "85.67%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "97.94%",
+    "uptimeDay": "19.42%",
+    "uptimeWeek": "38.07%",
+    "uptimeMonth": "85.75%",
+    "uptimeYear": "97.94%",
     "time": 813,
     "timeDay": 823,
     "timeWeek": 862,
@@ -59,7 +59,7 @@
       "2025-04-10": 1173,
       "2025-04-09": 1038,
       "2025-04-08": 1006,
-      "2025-04-07": 939
+      "2025-04-07": 906
     }
   },
   {
@@ -76,7 +76,7 @@
     "time": 847,
     "timeDay": 1051,
     "timeWeek": 774,
-    "timeMonth": 883,
+    "timeMonth": 880,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "time": 1131,
     "timeDay": 1170,
     "timeWeek": 1132,
-    "timeMonth": 1164,
+    "timeMonth": 1167,
     "timeYear": 1131,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "time": 650,
     "timeDay": 284,
     "timeWeek": 477,
-    "timeMonth": 461,
+    "timeMonth": 469,
     "timeYear": 650,
     "dailyMinutesDown": {}
   }
