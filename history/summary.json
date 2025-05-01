@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 392,
-    "timeWeek": 628,
-    "timeMonth": 760,
+    "timeDay": 512,
+    "timeWeek": 598,
+    "timeMonth": 746,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2025-04-03": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 853,
-    "timeWeek": 661,
-    "timeMonth": 815,
+    "timeDay": 875,
+    "timeWeek": 652,
+    "timeMonth": 806,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -42,16 +42,16 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "22.63%",
-    "uptimeWeek": "32.60%",
-    "uptimeMonth": "84.49%",
-    "uptimeYear": "97.94%",
+    "status": "up",
+    "uptime": "97.89%",
+    "uptimeDay": "25.11%",
+    "uptimeWeek": "31.09%",
+    "uptimeMonth": "84.14%",
+    "uptimeYear": "97.89%",
     "time": 836,
-    "timeDay": 881,
-    "timeWeek": 869,
-    "timeMonth": 865,
+    "timeDay": 850,
+    "timeWeek": 864,
+    "timeMonth": 864,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-05-01": 1064,
@@ -60,7 +60,7 @@
       "2025-04-28": 1113,
       "2025-04-27": 1114,
       "2025-04-26": 1152,
-      "2025-04-25": 122
+      "2025-04-25": 275
     }
   },
   {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 291,
-    "timeWeek": 962,
-    "timeMonth": 894,
-    "timeYear": 860,
+    "time": 861,
+    "timeDay": 996,
+    "timeWeek": 934,
+    "timeMonth": 879,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 1230,
-    "timeWeek": 1365,
-    "timeMonth": 1293,
-    "timeYear": 1153,
+    "time": 1154,
+    "timeDay": 1286,
+    "timeWeek": 1318,
+    "timeMonth": 1291,
+    "timeYear": 1154,
     "dailyMinutesDown": {}
   },
   {
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 127,
+    "timeDay": 125,
     "timeWeek": 131,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 449,
-    "timeWeek": 490,
-    "timeMonth": 512,
-    "timeYear": 644,
+    "time": 642,
+    "timeDay": 206,
+    "timeWeek": 422,
+    "timeMonth": 506,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   }
 ]
