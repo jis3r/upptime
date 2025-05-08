@@ -42,15 +42,15 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.97%",
-    "uptimeDay": "26.19%",
-    "uptimeWeek": "31.67%",
-    "uptimeMonth": "84.28%",
-    "uptimeYear": "97.97%",
+    "status": "down",
+    "uptime": "97.99%",
+    "uptimeDay": "26.71%",
+    "uptimeWeek": "32.23%",
+    "uptimeMonth": "84.41%",
+    "uptimeYear": "97.99%",
     "time": 839,
     "timeDay": 836,
-    "timeWeek": 855,
+    "timeWeek": 860,
     "timeMonth": 862,
     "timeYear": 839,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
       "2025-05-05": 1164,
       "2025-05-04": 1113,
       "2025-05-03": 1047,
-      "2025-05-02": 396
+      "2025-05-02": 340
     }
   },
   {
