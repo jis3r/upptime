@@ -4,9 +4,9 @@
     "url": "https://5schnellefragen.de",
     "icon": "https://icons.duckduckgo.com/ip3/5schnellefragen.de.ico",
     "slug": "5-schnelle-fragen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 626,
     "timeYear": 598,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-04-03": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://quotebox.app",
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,25 +36,28 @@
     "timeWeek": 785,
     "timeMonth": 775,
     "timeYear": 817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.57%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.57%",
     "time": 828,
     "timeDay": 268,
     "timeWeek": 757,
     "timeMonth": 776,
     "timeYear": 828,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-05-13": 562,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -63,8 +67,7 @@
       "2025-05-07": 1071,
       "2025-05-06": 1049,
       "2025-05-05": 1164,
-      "2025-05-04": 1113,
-      "2025-05-03": 62
+      "2025-05-04": 1113
     }
   },
   {
@@ -72,9 +75,9 @@
     "url": "https://movingicons.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/movingicons.dev.ico",
     "slug": "moving-icons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +86,9 @@
     "timeWeek": 1053,
     "timeMonth": 1036,
     "timeYear": 888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Suitcase",
