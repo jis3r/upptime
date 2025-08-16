@@ -24,10 +24,10 @@
     "url": "https://quotebox.app",
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 816,
@@ -35,25 +35,28 @@
     "timeWeek": 836,
     "timeMonth": 786,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 1
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.65%",
     "time": 826,
     "timeDay": 233,
     "timeWeek": 689,
     "timeMonth": 716,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-05-13": 562,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -63,8 +66,7 @@
       "2025-05-07": 1071,
       "2025-05-06": 1049,
       "2025-05-05": 1164,
-      "2025-05-04": 1113,
-      "2025-05-03": 62
+      "2025-05-04": 1113
     }
   },
   {
@@ -72,9 +74,9 @@
     "url": "https://movingicons.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/movingicons.dev.ico",
     "slug": "moving-icons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +85,9 @@
     "timeWeek": 993,
     "timeMonth": 948,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   },
   {
     "name": "Suitcase",
@@ -127,11 +131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.suitcase.legal.ico",
     "slug": "suitcase-backend",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 612,
     "timeDay": 670,
     "timeWeek": 500,
