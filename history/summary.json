@@ -6,9 +6,9 @@
     "slug": "5-schnelle-fragen",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 601,
     "timeDay": 846,
@@ -16,7 +16,6 @@
     "timeMonth": 685,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-08-20": 9,
       "2025-04-03": 25
     }
   },
@@ -27,18 +26,16 @@
     "slug": "quotebox",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 816,
     "timeDay": 1031,
     "timeWeek": 763,
     "timeMonth": 798,
     "timeYear": 816,
-    "dailyMinutesDown": {
-      "2025-08-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio",
@@ -46,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "97.67%",
+    "uptime": "97.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.66%",
     "time": 825,
     "timeDay": 902,
     "timeWeek": 690,
     "timeMonth": 720,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-08-20": 9,
       "2025-05-13": 562,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -67,7 +63,8 @@
       "2025-05-07": 1071,
       "2025-05-06": 1049,
       "2025-05-05": 1164,
-      "2025-05-04": 1113
+      "2025-05-04": 1113,
+      "2025-05-03": 62
     }
   },
   {
@@ -77,18 +74,16 @@
     "slug": "moving-icons",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
     "timeDay": 795,
     "timeWeek": 1031,
     "timeMonth": 977,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2025-08-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Suitcase",
