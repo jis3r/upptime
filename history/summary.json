@@ -6,17 +6,17 @@
     "slug": "5-schnelle-fragen",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 600,
-    "timeDay": 487,
-    "timeWeek": 594,
-    "timeMonth": 674,
+    "timeDay": 473,
+    "timeWeek": 579,
+    "timeMonth": 668,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-08-26": 12,
+      "2025-08-26": 2,
       "2025-04-03": 25
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://quotebox.app",
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 816,
     "timeDay": 658,
@@ -37,7 +37,7 @@
     "timeMonth": 812,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-08-26": 11
+      "2025-08-26": 1
     }
   },
   {
@@ -45,11 +45,11 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "97.71%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.71%",
     "time": 826,
     "timeDay": 963,
@@ -57,7 +57,7 @@
     "timeMonth": 751,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2025-08-26": 11,
+      "2025-08-26": 1,
       "2025-05-13": 562,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -75,11 +75,11 @@
     "url": "https://movingicons.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/movingicons.dev.ico",
     "slug": "moving-icons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 893,
     "timeDay": 820,
@@ -87,7 +87,7 @@
     "timeMonth": 952,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2025-08-26": 10
+      "2025-08-26": 0
     }
   },
   {
