@@ -4,11 +4,11 @@
     "url": "https://5schnellefragen.de",
     "icon": "https://icons.duckduckgo.com/ip3/5schnellefragen.de.ico",
     "slug": "5-schnelle-fragen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 598,
     "timeDay": 683,
@@ -16,7 +16,7 @@
     "timeMonth": 614,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-08-30": 33,
+      "2025-08-30": 35,
       "2025-08-26": 38,
       "2025-04-03": 25
     }
@@ -26,10 +26,10 @@
     "url": "https://quotebox.app",
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 830,
@@ -38,7 +38,7 @@
     "timeMonth": 904,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-08-30": 33,
+      "2025-08-30": 34,
       "2025-08-26": 38
     }
   },
@@ -47,19 +47,19 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "97.77%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "97.72%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.78%",
     "time": 826,
     "timeDay": 856,
     "timeWeek": 853,
     "timeMonth": 767,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2025-08-30": 32,
+      "2025-08-30": 33,
       "2025-08-26": 37,
       "2025-05-13": 562,
       "2025-05-12": 1440,
@@ -70,7 +70,7 @@
       "2025-05-07": 1071,
       "2025-05-06": 1049,
       "2025-05-05": 1164,
-      "2025-05-04": 866
+      "2025-05-04": 842
     }
   },
   {
@@ -78,9 +78,9 @@
     "url": "https://movingicons.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/movingicons.dev.ico",
     "slug": "moving-icons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.80%",
+    "uptimeDay": "97.78%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
