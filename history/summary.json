@@ -27,9 +27,9 @@
     "url": "https://quotebox.app",
     "icon": "https://icons.duckduckgo.com/ip3/quotebox.app.ico",
     "slug": "quotebox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
@@ -39,6 +39,7 @@
     "timeMonth": 920,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2025-09-20": 0,
       "2025-09-01": 20,
       "2025-08-30": 33,
       "2025-08-26": 38
