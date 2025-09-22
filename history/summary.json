@@ -29,7 +29,7 @@
     "slug": "quotebox",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "30.73%",
+    "uptimeDay": "65.04%",
     "uptimeWeek": "76.03%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
@@ -123,9 +123,9 @@
     "url": "https://jis3r.github.io/upptime/",
     "icon": "https://icons.duckduckgo.com/ip3/jis3r.github.io.ico",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 121,
     "timeMonth": 132,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "Suitcase Backend",
