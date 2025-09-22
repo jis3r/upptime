@@ -29,7 +29,7 @@
     "slug": "quotebox",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "65.04%",
+    "uptimeDay": "66.03%",
     "uptimeWeek": "76.03%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
@@ -123,19 +123,19 @@
     "url": "https://jis3r.github.io/upptime/",
     "icon": "https://icons.duckduckgo.com/ip3/jis3r.github.io.ico",
     "slug": "upptime",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 64,
-    "timeWeek": 121,
+    "timeDay": 100,
+    "timeWeek": 123,
     "timeMonth": 132,
-    "timeYear": 105,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 14
     }
   },
   {
