@@ -4,7 +4,7 @@
     "url": "https://5schnellefragen.de",
     "icon": "https://icons.duckduckgo.com/ip3/5schnellefragen.de.ico",
     "slug": "5-schnelle-fragen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 516,
     "timeYear": 597,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-09-01": 21,
       "2025-08-30": 48,
       "2025-08-26": 38,
@@ -51,18 +52,19 @@
     "url": "https://isermann.dev",
     "icon": "https://icons.duckduckgo.com/ip3/isermann.dev.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.88%",
     "time": 823,
     "timeDay": 991,
     "timeWeek": 906,
     "timeMonth": 853,
     "timeYear": 825,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-09-01": 20,
       "2025-08-30": 32,
       "2025-08-26": 37,
@@ -75,7 +77,7 @@
       "2025-05-07": 1071,
       "2025-05-06": 1049,
       "2025-05-05": 1164,
-      "2025-05-04": 842
+      "2025-05-04": 792
     }
   },
   {
@@ -83,9 +85,9 @@
     "url": "https://movingicons.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/movingicons.dev.ico",
     "slug": "moving-icons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -95,6 +97,7 @@
     "timeMonth": 860,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-09-01": 19,
       "2025-08-30": 32,
       "2025-08-26": 36
@@ -142,7 +145,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.suitcase.legal.ico",
     "slug": "suitcase-backend",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
