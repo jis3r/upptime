@@ -114,19 +114,19 @@
     "url": "https://suitcase.legal",
     "icon": "https://icons.duckduckgo.com/ip3/suitcase.legal.ico",
     "slug": "suitcase",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 845,
-    "timeWeek": 418,
-    "timeMonth": 517,
+    "time": 880,
+    "timeDay": 753,
+    "timeWeek": 448,
+    "timeMonth": 522,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2026-01-20": 0
+      "2026-01-20": 17
     }
   },
   {
